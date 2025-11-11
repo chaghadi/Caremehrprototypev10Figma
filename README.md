@@ -1,1 +1,11 @@
-# repo-template
+
+  # CareMehr Prototype v1.0
+
+  This is a code bundle for CareMehr Prototype v1.0. The original project is available at https://www.figma.com/design/IfsLgQan2nXCrj8T6u4Hf8/CareMehr-Prototype-v1.0.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
